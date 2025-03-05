@@ -51,7 +51,7 @@ The **Customer Onboarding System** is a web-based application designed to simpli
 ### Steps
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/THARUN6367/Customer-Onboarding.git
+   git clone https://github.com/SabrishV/Customer-Onboarding.git
    cd Customer-Onboarding
    ```
 2. **Set Up the Database**
