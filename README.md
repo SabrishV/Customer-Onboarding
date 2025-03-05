@@ -83,4 +83,4 @@ The **Customer Onboarding System** is a web-based application designed to simpli
 This project is licensed under the **MIT License**.
 
 ## Contact
-For queries or contributions, reach out via [tharun6367@gmail.com](mailto:tharun6367@gmail.com).
+For queries or contributions, reach out via [sabrishvaradharajan@gmail.com](mailto:sabrishvaradharajan@gmail.com).
